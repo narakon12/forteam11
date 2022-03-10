@@ -1,0 +1,30 @@
+﻿infusion pump,brand,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec
+syring pump ,terumo  54-46,5,3,10,1,2,5,5,1,1,1,1,0
+syring pump ,terumo  56-46,4,3,15,1,1,15,1,1,1,1,1,1
+syring pump ,fresinius 135-56,5,3,15,1,1,25,2,1,1,1,1,0
+syring pump ,fresinius 136-56,3,3,15,3,1,2,1,1,1,1,1,0
+syring pump ,fresinius 139-56,3,2,15,7,1,7,3,1,1,1,1,0
+fresinius ,blue-or  112-59,8,0,15,5,0,8,1,1,1,1,1,0
+fresinius ,blue-or  113-59,3,0,10,7,0,9,3,3,0,3,5,3
+fresinius ,blue-or  114-59,15,2,7,3,0,7,3,2,0,1,5,3
+fresinius ,blue-or  115-59,15,0,7,6,0,8,3,3,0,3,1,1
+fresinius ,blue-or  116-59,15,0,7,16,0,5,4,4,0,3,1,5
+fresinius ,blue-or  120-59,15,5,7,8,2,7,5,7,1,3,1,5
+fresinius ,blue-or  121-59,14,7,7,9,0,2,6,2,1,3,14,5
+fresinius ,blue-or 122-59,14,6,1,7,5,7,4,3,1,3,1,5
+fresinius ,blue-or  123-59,14,8,14,3,7,2,5,5,1,3,14,5
+fresinius ,blue-or  124-59,14,15,1,6,7,4,8,6,1,7,14,6
+fresinius ,blue-or 125-59,14,15,1,9,7,2,21,1,1,7,14,5
+fresinius ,blue-gr 138-59,14,15,1,8,7,5,20,4,1,7,14,6
+fresinius ,blue-gr 139-59,14,15,5,5,7,21,2,2,5,7,14,5
+fresinius ,blue-gr 140-59,12,15,7,2,7,5,2,3,6,7,14,8
+fresinius ,blue-gr 141-59,12,0,3,14,7,3,2,3,7,7,14,8
+fresinius ,blue-gr 142-59,11,0,7,17,14,5,2,3,7,7,35,9
+fresinius ,blue-gr 143-59,9,2,3,4,7,0,1,4,7,7,25,10
+fresinius ,blue-gr 144-59,0,3,2,1,16,2,7,2,7,7,36,10
+fresinius ,sky  25-63,7,5,15,7,1,2,8,1,7,7,25,10
+fresinius ,sky 26-63,7,6,15,5,5,1,7,2,8,7,25,10
+fresinius ,sky 27-63,7,9,14,6,8,7,7,3,9,7,25,7
+fresinius ,sky 28-63,7,8,12,3,9,17,7,2,0,7,8,5
+fresinius ,sky 29-63,0,5,10,5,7,17,7,3,2,8,2,5
+fresinius ,sky 35-63,19,7,16,20,6,14,7,4,2,7,2,1
