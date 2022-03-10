@@ -1,0 +1,30 @@
+﻿date,infusion pump,brand,status,note, statistics/month
+25-02-2022,syring pump ,terumo  54-46,ready,,5
+25-02-2022,syring pump ,terumo  56-46,ready,,4
+25-02-2022,syring pump ,fresinius 135-56,ready,,5
+25-02-2022,syring pump ,fresinius 136-56,ready,,3
+25-02-2022,syring pump ,fresinius 139-56,ready,,3
+25-02-2022,fresinius ,blue-or  112-59,ready,,8
+25-02-2022,fresinius ,blue-or  113-59,ready,,3
+25-02-2022,fresinius ,blue-or  114-59,ready,,15
+25-02-2022,fresinius ,blue-or  115-59,ready,,15
+25-02-2022,fresinius ,blue-or  116-59,ready,,15
+25-02-2022,fresinius ,blue-or  120-59,ready,,15
+25-02-2022,fresinius ,blue-or  121-59,ready,,14
+25-02-2022,fresinius ,blue-or 122-59,ready,,14
+25-02-2022,fresinius ,blue-or  123-59,ready,,14
+25-02-2022,fresinius ,blue-or  124-59,ready,,14
+25-02-2022,fresinius ,blue-or 125-59,ready,,14
+25-02-2022,fresinius ,blue-gr 138-59,ready,,14
+25-02-2022,fresinius ,blue-gr 139-59,ready,,14
+25-02-2022,fresinius ,blue-gr 140-59,ready,,12
+25-02-2022,fresinius ,blue-gr 141-59,ready,,12
+25-02-2022,fresinius ,blue-gr 142-59,ready,,11
+25-02-2022,fresinius ,blue-gr 143-59,ready,,9
+25-02-2022,fresinius ,blue-gr 144-59,maintain,from 01022022,0
+25-02-2022,fresinius ,sky  25-63,ready,,7
+25-02-2023,fresinius ,sky 26-63,ready,,7
+25-02-2024,fresinius ,sky 27-63,ready,,7
+25-02-2025,fresinius ,sky 28-63,ready,,7
+25-02-2026,fresinius ,sky 29-63,maintain,from 23022022,0
+25-02-2027,fresinius ,sky 35-63,ready,,19
